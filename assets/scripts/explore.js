@@ -13,7 +13,6 @@ function init() {
 
   function populateVoiceList() {
     voices = synth.getVoices();
-    voiceSelect.innerHTML = "";
 
     for (let i = 0; i < voices.length; i++) {
       const option = document.createElement("option");
