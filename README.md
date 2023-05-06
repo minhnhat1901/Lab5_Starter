@@ -6,3 +6,4 @@ Minh Duong
 
 [Link to my Expose HTML](https://minhnhat1901.github.io/Lab5_Starter/expose.html)
 
+[Link to my Explore HTML](https://minhnhat1901.github.io/Lab5_Starter/explore.html)
